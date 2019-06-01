@@ -1,0 +1,14 @@
+{
+  "name": "https-server",
+  "version": "1.0.0",
+  "description": "Express Server with HTTPs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Andy Voneshen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
